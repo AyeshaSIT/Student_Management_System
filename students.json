@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Ayesha",
+        "age": 23,
+        "roll_no": "IT141004",
+        "marks": 97.0,
+        "course": "BSIT",
+        "section": "A"
+    },
+    {
+        "id": 3,
+        "name": "MINSA SUFYAN",
+        "age": 23,
+        "roll_no": "CS141001",
+        "marks": 99.0,
+        "course": "BSCS",
+        "section": "A"
+    },
+    {
+        "id": 4,
+        "name": "Minahil",
+        "age": 24,
+        "roll_no": "BSCS141009",
+        "marks": 98.0,
+        "course": "Python",
+        "section": "C"
+    },
+    {
+        "id": 5,
+        "name": "Aina",
+        "age": 23,
+        "roll_no": "BS120",
+        "marks": 32.0,
+        "course": "BSIT",
+        "section": "CEE"
+    },
+    {
+        "id": 6,
+        "name": "A",
+        "age": 29,
+        "roll_no": "sq",
+        "marks": 94.0,
+        "course": "q",
+        "section": "q"
+    },
+    {
+        "id": 7,
+        "name": "Huda",
+        "age": 23,
+        "roll_no": "It14",
+        "marks": 97.0,
+        "course": "DSA",
+        "section": "B"
+    },
+    {
+        "id": 8,
+        "name": "sd",
+        "age": 12,
+        "roll_no": "2",
+        "marks": 32.0,
+        "course": "w",
+        "section": "e"
+    }
+]
