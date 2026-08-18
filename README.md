@@ -112,7 +112,7 @@ Make sure Python is installed on your system.
 Clone the repository:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/AyeshaSIT/Student_Management_System.git
 ```
 
 Navigate into the project directory:
@@ -233,6 +233,3 @@ The project helped me understand how to:
 
 The current version implements the core Student Management System functionality using Python and JSON storage.
 
-## Author
-
-Built as part of my Python and AI Engineering learning journey.
